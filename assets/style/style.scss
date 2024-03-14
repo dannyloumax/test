@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+
+  &__container {
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+
+  &__title {
+    text-align: center;
+    color: aqua;
+    background-color: blanchedalmond;
+  }
+
+  &__description {
+    text-align: center;
+    color: aquamarine;
+    background-color: blanchedalmond;
+  }
+
+}

@@ -1,0 +1,24 @@
+{
+  "name": "mdanilau",
+  "version": "1.0.0",
+  "description": "adasdas",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html",
+    "test": "asdasdad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asdas"
+  },
+  "keywords": [
+    "asdasd"
+  ],
+  "author": "asdassa",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0",
+    "sass": "^1.72.0"
+  }
+}
